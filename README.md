@@ -11,7 +11,9 @@ I really enjoy building solutions that i can use for one, and also that can bett
 * Jest
 * AWS
 
-## Life as a Software developer- 🔭 I’m currently working on **Focus App**
+## Life as a Software developer
+
+- 🔭 I’m currently working on **Focus App**
 
 - 🌱 I’m currently learning **TypeScript**
 
