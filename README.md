@@ -1,4 +1,4 @@
-### Hi there 👋 I'm David Osaro
+## Hi there 👋 I'm David Osaro
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dav1dosaro&label=Profile%20views&color=0e75b6&style=flat" alt="dav1dosaro" /> </p>
 
 I'm David from Nigeria. I do Web development, Frontend, Backend, and also I am a Cloud Aspirant. 
