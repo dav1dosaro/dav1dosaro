@@ -26,5 +26,5 @@ I really enjoy building solutions that i can use for one, and also that can bett
 - ⚡ Fun fact **I love making games**
 
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dav1dosaro&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dav1dosaro&show_icons=true&theme=shadow_blue)
 
