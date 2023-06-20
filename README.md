@@ -28,6 +28,3 @@ I really enjoy building solutions that i can use for one, and also that can bett
 ### Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dav1dosaro&show_icons=true&locale=en&layout=compact" alt="dav1dosaro" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dav1dosaro&" alt="dav1dosaro" /></p>
-
