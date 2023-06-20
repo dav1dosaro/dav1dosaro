@@ -27,6 +27,6 @@ I really enjoy building solutions that i can use for one, and also that can bett
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dav1dosaro&show_icons=true&theme=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dav1dosaro&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dav1dosaro)
 
 
