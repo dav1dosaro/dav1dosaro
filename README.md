@@ -11,5 +11,4 @@ I really enjoy building solutions that i can use for one, and also that can bett
 * AWS
 
 ### Stats
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dav1dosaro)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/dav1dosaro/github-readme-stats)  
